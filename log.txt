@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 01 Jan 2025 17:11:23 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-YxvaooVBPDfR0nDyE0egBQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: AEC=AZ6Zc-VwOXO6zkfxHlXJdPMaLWiTxmJqOn-YecgSitofWmy-yjYymi91bg; expires=Mon, 30-Jun-2025 17:11:23 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=520=GaHVevq6UwMerpFQ4_fgwBYHHKqtrD30oet-Yn4PbW8c14ppjwBy8HTGujR3m6wZtrICR8yXPeIK8qGZ_cdn-BwYyOcP-Uq4um-Xe6DvY9Xi7y7iWhzPg5Fg7UJrJRhQTvbWvy0C_gWM0XJmbaZbc7aDhqoYwwnwdnQD-qLY4-_aogQ4p8Pq51nldEV7FVNjNI8; expires=Thu, 03-Jul-2025 17:11:23 GMT; path=/; domain=.google.com; HttpOnly
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+453f
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en-JM"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/logos/doodles/2025/new-years-day-2025-6753651837110593.2-law.gif" itemprop="image"><meta content="New Year's Day 2025" property="twitter:title"><meta content="New Year's Day 2025 #GoogleDoodle" property="twitter:description"><meta content="New Year's Day 2025 #GoogleDoodle" property="og:description"><meta content="summary_large_image" property="twitter:card"><meta content="@GoogleDoodles" property="twitter:site"><meta content="https://www.google.com/logos/doodles/2025/new-years-day-2025-6753651837110593-2xa.gif" property="twitter:image"><meta content="https://www.google.com/logos/doodles/2025/new-years-day-2025-6753651837110593-2xa.gif" property="og:image"><meta content="1150" property="og:image:width"><meta content="460" property="og:image:height"><meta content="https:

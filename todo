@@ -1,0 +1,16 @@
+1. Create a socket
+2. Connect to remote server
+3. Send some data
+4. Receive a reply 
+#done 
+
+
+
+
+
+# for server 
+1. Open a socket
+2. Bind to a address(and port).
+3. Listen for incoming connections.
+4. Accept connections
+5. Read/Send
