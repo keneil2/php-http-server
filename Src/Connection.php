@@ -29,6 +29,10 @@ class Connection{
     echo "Message sent successfully";
     }
 
+
+   public function Bind($sock){
+      socket_bind($sock,"127.0.0.1",8000);
+   }
     public function recivicedData($sock){
           
           socket_recv( $sock , $data , 2045 , MSG_WAITALL );

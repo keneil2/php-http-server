@@ -1,0 +1,18 @@
+{
+    "name": "keneil/php-http-server",
+    "description": "this is a basic server build using pure php to learn how servers work",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Keneil\\PhpHttpServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keneil Samms",
+            "email": "keneilsamms23@gmail.com"
+        }
+    ],
+    "require": {}
+}
