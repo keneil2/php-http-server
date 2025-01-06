@@ -1,6 +1,6 @@
 <?php
 namespace Keneil\PhpHttpServer;
-trait Log{
+class Log{
     public static function Info($message){
         $file=fopen("./error/Error.txt",'a');
      fwrite( $file,"INFO".date("m-d-Y").$message.'/n');
