@@ -1,10 +1,10 @@
 <?php 
 namespace Keneil\PhpHttpServer\Exceptions;
 use Keneil\PhpHttpServer\Log;
-class SocketCreationException extends Exception{
-    use Log;
+class SocketCreationException extends \Exception{
+    
  public function __construct($message){
     parent::__construct($message);
-    $this->debug($message);
+    Log::debug($message);
  }
 }
